@@ -1,0 +1,28 @@
+10,90,:
+print("hi")                          28=a
+                                        
+
+
+import sleep,clock from time        
+
+print()#
+
+shomucode@gmail.com
+
+
+**************************************************************************
+palindrome program in python
+macat
+28=a
+temp=a
+i=1
+sum=0
+for i in range(i,a)
+if(a%i)==0
+sum=sum+i
+if(sum==a)
+print(number is perfect number)
+else 
+it is not perfect
+sum=sum+i
+

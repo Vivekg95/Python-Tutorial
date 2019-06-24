@@ -1,0 +1,2 @@
+WARNING:root:this warning
+CRITICAL:root:critical mesaage

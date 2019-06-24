@@ -1,0 +1,16 @@
+INFO:root:A new request came
+INFO:root:completed
+INFO:root:A new request came
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "c:/Users/Vivek Kumar/Desktop/python10/lokgingexpn.py", line 7, in <module>
+    print(x/y)
+ZeroDivisionError: division by zero
+INFO:root:completed
+INFO:root:A new request came
+ERROR:root:invalid literal for int() with base 10: 'i'
+Traceback (most recent call last):
+  File "c:/Users/Vivek Kumar/Desktop/python10/lokgingexpn.py", line 6, in <module>
+    y=int(input("enter anoter number"))
+ValueError: invalid literal for int() with base 10: 'i'
+INFO:root:completed
