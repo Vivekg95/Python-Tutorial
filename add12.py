@@ -1,3 +1,11 @@
+"""import pdb
+import mysql.connector
+x = 3
+y = 4
+pdb.set_trace()
 
-x=5
-print(x)
+total = x + y
+pdb.set_trace()"""
+print(range(5))
+lis=list(range(5))
+print(lis)
